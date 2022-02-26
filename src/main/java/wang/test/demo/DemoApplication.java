@@ -10,6 +10,7 @@ public class DemoApplication {
         System.out.println("vim from wzh");
         System.out.println("vim from cz");
         System.out.println("vim from cz2");
+        System.out.println("vim from cz3");
         SpringApplication.run(DemoApplication.class, args);
     }
 
