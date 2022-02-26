@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
     public static void main(String[] args) {
-        System.out.println("test");
+        System.out.println("vim from wzh");
+        System.out.println("vim from cz");
         SpringApplication.run(DemoApplication.class, args);
     }
 
